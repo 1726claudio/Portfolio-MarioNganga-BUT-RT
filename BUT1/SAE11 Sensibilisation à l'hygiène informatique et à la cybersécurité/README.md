@@ -32,9 +32,7 @@ Une attestation officielle de suivi a été délivrée par l'ANSSI, témoignant 
 
 > _Cette formation a enrichi mes connaissances et ma capacité à appliquer des bonnes pratiques en cybersécurité, tout en sensibilisant les autres aux enjeux de la sécurité numérique._
 
-BUT1/SAE11 Sensibilisation à l'hygiène informatique et à la cybersécurité/Attestation-ANSSI.jpeg
-
 ![Attestation ANSSI](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77)
 
-> **Voir l'attestation complète :** [Lien vers l'attestation](BUT1/SAE11 Sensibilisation à l'hygiène informatique et à la cybersécurité/Attestation-ANSSI.jpeg)
+
 
