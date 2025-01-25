@@ -15,5 +15,5 @@ Le site comprend plusieurs sections :
 
 Ce projet m'a permis de renforcer mes connaissances en création de sites web statiques tout en mettant en pratique les concepts appris lors de mes études.
 
-![Capture d'écran du site web](lien-vers-la-photo-du-site.png)
+![Capture d'écran du site web](BUT1/SAé 14 : se présenter sur Internet/SITE-Web.jpg)
 
