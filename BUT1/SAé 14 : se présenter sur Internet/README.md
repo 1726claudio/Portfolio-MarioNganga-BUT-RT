@@ -15,5 +15,5 @@ Le site comprend plusieurs sections :
 
 Ce projet m'a permis de renforcer mes connaissances en création de sites web statiques tout en mettant en pratique les concepts appris lors de mes études.
 
-![Capture d'écran du site web](https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/BUT1/BUT1/SAé 14 : se présenter sur Internet/SITE-Web.jpg)
+![Capture d'écran du site web]([https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/BUT1/BUT1/SAé 14 : se présenter sur Internet/SITE-Web.jpg](https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/blob/main/BUT1/SA%C3%A9%2014%20%3A%20se%20pr%C3%A9senter%20sur%20Internet/SITE-Web.jpg))
 
