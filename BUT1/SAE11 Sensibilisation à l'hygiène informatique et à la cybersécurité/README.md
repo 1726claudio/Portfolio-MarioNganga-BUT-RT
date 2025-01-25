@@ -34,7 +34,7 @@ Une attestation officielle de suivi a été délivrée par l'ANSSI, témoignant 
 
 https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/blob/main/BUT1/SAE11%20Sensibilisation%20%C3%A0%20l'hygi%C3%A8ne%20informatique%20et%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9/Attestation-ANSSI.jpeg
 
-![Attestation ANSSI](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77)
+
 
 
 
