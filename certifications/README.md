@@ -41,7 +41,7 @@ Cette certification m'a permis de développer des compétences avancées en mati
 - [Voir le badge ici](https://www.credly.com/badges/1dc29a4b-3db0-4afe-9a9a-97b05d3ad676/linked_in_profile)
 
 ### **4. Cybersecurity Essentials**
-Ce programme m'a permis de renforcer mes connaissances en cybersécurité, en me concentrant sur les concepts de base de la sécurité des réseaux et des systèmes. Je suis désormais capable d’identifier les menaces et de mettre en place des stratégies de sécurité efficaces.
+Cette certification m'a permis de renforcer mes connaissances en cybersécurité, en me concentrant sur les concepts de base de la sécurité des réseaux et des systèmes. Je suis désormais capable d’identifier les menaces et de mettre en place des stratégies de sécurité efficaces.
 
 - Concepts abordés :
   - Principes fondamentaux de la cybersécurité
