@@ -30,9 +30,10 @@ J'ai suivi avec succès une formation composée de quatre modules de cybersécur
 ### **Attestation de formation**
 Une attestation officielle de suivi a été délivrée par l'ANSSI, témoignant de mes compétences acquises dans ces domaines.
 
+https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/blob/main/BUT1/SAE11%20Sensibilisation%20%C3%A0%20l'hygi%C3%A8ne%20informatique%20et%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9/Attestation-ANSSI.jpeg
+
 > _Cette formation a enrichi mes connaissances et ma capacité à appliquer des bonnes pratiques en cybersécurité, tout en sensibilisant les autres aux enjeux de la sécurité numérique._
 
-https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/blob/main/BUT1/SAE11%20Sensibilisation%20%C3%A0%20l'hygi%C3%A8ne%20informatique%20et%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9/Attestation-ANSSI.jpeg
 
 
 
