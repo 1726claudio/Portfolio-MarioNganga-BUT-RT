@@ -14,8 +14,7 @@ Cette certification m'a permis de maîtriser les bases des réseaux, y compris l
   - Adressage IPv4 et IPv6
   - Protocoles de communication : Ethernet, TCP/IP
   - Configuration de routeurs et de commutateurs
-
-- ![Badge CCNA: Introduction to Networks](https://www.your-link-to-the-badge.com/badge-ccna-introduction-to-networks.png)
+    
 - [Voir le badge ici](https://www.credly.com/badges/4f3023f2-9474-4cf5-91f4-4b7063d62870/linked_in_profile)
 
 ### **2. CCNA: Switching, Routing, and Wireless Essentials**
@@ -28,7 +27,6 @@ Cette certification approfondit la compréhension des réseaux en abordant le co
   - Réseaux sans fil et sécurité sans fil
   - Services réseau : DHCP, NAT, DNS
 
-- ![Badge CCNA: Switching, Routing, and Wireless Essentials](https://www.your-link-to-the-badge.com/badge-ccna-switching-routing-wireless.png)
 - [Voir le badge ici](https://www.credly.com/badges/dfbc133c-f908-4ba9-962f-36d61bfd066d/linked_in_profile)
 
 ### **3. CCNA: Enterprise Networking, Security, and Automation**
@@ -40,7 +38,6 @@ Cette certification m'a permis de développer des compétences avancées en mati
   - Surveillance des réseaux et gestion des incidents
   - Automatisation avec des outils comme Python et Ansible
 
-- ![Badge CCNA: Enterprise Networking, Security, and Automation](https://www.your-link-to-the-badge.com/badge-ccna-enterprise-networking.png)
 - [Voir le badge ici](https://www.credly.com/badges/1dc29a4b-3db0-4afe-9a9a-97b05d3ad676/linked_in_profile)
 
 ### **4. Cybersecurity Essentials**
@@ -52,6 +49,5 @@ Ce programme m'a permis de renforcer mes connaissances en cybersécurité, en me
   - Cryptographie et gestion des clés
   - Analyse des menaces et réponse aux incidents
   - Sécurisation des applications et des services web
-
-- ![Badge Cybersecurity Essentials](https://www.your-link-to-the-badge.com/badge-cybersecurity-essentials.png)
+  - 
 - [Voir le badge ici](https://www.credly.com/badges/3689882a-c6c6-4f21-9981-ce96434689cb/linked_in_profile)
