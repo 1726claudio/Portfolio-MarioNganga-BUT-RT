@@ -34,4 +34,5 @@ Une attestation officielle de suivi a été délivrée par l'ANSSI, témoignant 
 
 ![Attestation ANSSI](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77)
 
-> **Voir l'attestation complète :** [Lien vers l'attestation](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77))
+> **Voir l'attestation complète :** [Lien vers l'attestation](![Image]([https://github.com/username/repository-name/blob/main/chemin/vers/image.png](https://github.com/1726claudio/Portfolio-MarioNganga-BUT-RT/edit/main/BUT1/SAE11)
+Attestation-ANSSI.jpeg)
