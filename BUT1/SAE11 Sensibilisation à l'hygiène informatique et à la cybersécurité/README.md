@@ -32,6 +32,6 @@ Une attestation officielle de suivi a été délivrée par l'ANSSI, témoignant 
 
 > _Cette formation a enrichi mes connaissances et ma capacité à appliquer des bonnes pratiques en cybersécurité, tout en sensibilisant les autres aux enjeux de la sécurité numérique._
 
-![Attestation ANSSI](lien_vers_votre_image_attestation.jpg)
+![Attestation ANSSI](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77)
 
 > **Voir l'attestation complète :** [Lien vers l'attestation](![Image](https://github.com/user-attachments/assets/e2ea4a46-a411-44fc-adb7-b891168e0c77))
