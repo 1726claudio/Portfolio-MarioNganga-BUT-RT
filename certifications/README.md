@@ -29,7 +29,7 @@ Cette certification approfondit la compréhension des réseaux en abordant le co
   - Services réseau : DHCP, NAT, DNS
 
 - ![Badge CCNA: Switching, Routing, and Wireless Essentials](https://www.your-link-to-the-badge.com/badge-ccna-switching-routing-wireless.png)
-- [Voir le badge ici](https://www.your-link-to-the-badge.com/badge-ccna-switching-routing-wireless)
+- [Voir le badge ici](https://www.credly.com/badges/dfbc133c-f908-4ba9-962f-36d61bfd066d/linked_in_profile)
 
 ### **3. CCNA: Enterprise Networking, Security, and Automation**
 Cette certification m'a permis de développer des compétences avancées en matière de sécurité des réseaux d'entreprise et d'automatisation des réseaux. Elle m'a appris à sécuriser des infrastructures complexes et à gérer l'automatisation des processus réseau.
@@ -41,7 +41,7 @@ Cette certification m'a permis de développer des compétences avancées en mati
   - Automatisation avec des outils comme Python et Ansible
 
 - ![Badge CCNA: Enterprise Networking, Security, and Automation](https://www.your-link-to-the-badge.com/badge-ccna-enterprise-networking.png)
-- [Voir le badge ici](https://www.your-link-to-the-badge.com/badge-ccna-enterprise-networking)
+- [Voir le badge ici](https://www.credly.com/badges/1dc29a4b-3db0-4afe-9a9a-97b05d3ad676/linked_in_profile)
 
 ### **4. Cybersecurity Essentials**
 Ce programme m'a permis de renforcer mes connaissances en cybersécurité, en me concentrant sur les concepts de base de la sécurité des réseaux et des systèmes. Je suis désormais capable d’identifier les menaces et de mettre en place des stratégies de sécurité efficaces.
@@ -54,4 +54,4 @@ Ce programme m'a permis de renforcer mes connaissances en cybersécurité, en me
   - Sécurisation des applications et des services web
 
 - ![Badge Cybersecurity Essentials](https://www.your-link-to-the-badge.com/badge-cybersecurity-essentials.png)
-- [Voir le badge ici](https://www.your-link-to-the-badge.com/badge-cybersecurity-essentials)
+- [Voir le badge ici](https://www.credly.com/badges/3689882a-c6c6-4f21-9981-ce96434689cb/linked_in_profile)
