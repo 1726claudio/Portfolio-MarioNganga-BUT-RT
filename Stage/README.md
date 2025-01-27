@@ -5,7 +5,7 @@ Durant mon stage effectué au **Conseil Départemental de Belfort**, j'ai eu l'o
 ### 📅 Période
 - **Dates** : 22 Avril 2024 - 14 Juin 2024
 
-  ### 🎯 Sujet de Stage : Gestion d'un EDR (Endpoint Detection and Response
+  ### 🎯 Sujet de Stage : Gestion d'un EDR (Endpoint Detection and Response)
   
 Mon stage portait sur la gestion d'un système **EDR (Endpoint Detection and Response)** 
 
