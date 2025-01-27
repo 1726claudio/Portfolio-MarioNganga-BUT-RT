@@ -1,12 +1,12 @@
 
 ## Soft Skills
 
-- **Résilience :**
-- **Curiosité :**  
-- **Adaptabilité :** 
-- **Collaboration en équipe :**   
-- **Développement Personnel :** 
-- **Souriant :** 
+- **Résilience **
+- **Curiosité **  
+- **Adaptabilité ** 
+- **Collaboration en équipe **   
+- **Développement Personnel ** 
+- **Souriant ** 
 
 # **Compétences Techniques par UE**
 
