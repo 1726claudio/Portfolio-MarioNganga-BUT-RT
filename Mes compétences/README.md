@@ -1,3 +1,13 @@
+
+## Soft Skills
+
+- **Résilience :** Capacité à surmonter les obstacles et à rester motivé face aux défis.  
+- **Curiosité :** Toujours prêt à apprendre et à explorer de nouveaux concepts pour élargir mes compétences.  
+- **Adaptabilité :** S’adapte facilement aux nouvelles situations, environnements et technologies.  
+- **Collaboration en équipe :** Travaille efficacement en groupe en favorisant la communication et l’entraide.  
+- **Développement Personnel :** Engagement continu dans l’amélioration de mes compétences techniques, humaines et organisationnelles, avec une forte capacité d'auto-apprentissage.  
+- **Souriant :** Maintient une attitude positive, favorisant une ambiance de travail agréable et motivante.  
+
 # **Compétences Techniques par UE**
 
 ## **UE1 - Administrer**  
